@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have done my Masters in Computer and Information Science at New Mexico Highland University.
+I have done my Master's degree in Computer Science from New Mexico Highlands University, USA, with specializations in cloud computing, cybersecurity,
 
 
 ## 🌐 Socials:
